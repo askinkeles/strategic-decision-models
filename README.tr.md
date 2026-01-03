@@ -28,7 +28,7 @@ Her model, tutarlı bir format üzerinde ele alınacaktır:
 > Mevcut durumu anlamak, çevresel faktörleri analiz etmek ve "Neredeyiz?" sorusuna cevap vermek için kullanılan araçlar.
 
 * [x] [**SWOT Analizi**](models/01-analysis/swot-analysis.tr.md) (Güçlü Yönler, Zayıf Yönler...)
-* [ ] **PEST/PESTEL Analizi** (Politik, Ekonomik, Sosyolojik, Teknolojik, Çevresel, Yasal)
+* [x] [**PEST/PESTEL Analizi**](models/01-analysis/pestel-analizi.tr.md) (Politik, Ekonomik, Sosyolojik, Teknolojik, Çevresel, Yasal)
 * [ ] **Porter'ın 5 Kuvvet Analizi**
 * [ ] **VRIO Çerçevesi** (Değer, Nadirlik, Taklit Edilemezlik, Organizasyon)
 * [ ] **BCG Matrisi** (Boston Danışma Grubu - Büyüme/Pay Matrisi)

@@ -28,7 +28,7 @@ Each model will be explained in a consistent format:
 > Tools used to understand the current situation, analyze environmental factors, and answer the question "Where are we?".
 
 * [x] [**SWOT Analysis**](models/01-analysis/swot-analysis.md)(Strengths, Weaknesses, Opportunities, Threats)
-* [ ] **PEST/PESTEL Analysis** (Political, Economic, Social, Technological, Environmental, Legal)
+* [x] [**PEST/PESTEL Analysis**](models/01-analysis/pestel-analysis.md) (Political, Economic, Social, Technological, Environmental, Legal)
 * [ ] **Porter's 5 Forces Analysis**
 * [ ] **VRIO Framework** (Value, Rarity, Imitability, Organization)
 * [ ] **BCG Matrix** (Boston Consulting Group - Growth/Share Matrix)
