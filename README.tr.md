@@ -30,7 +30,7 @@ Her model, tutarlı bir format üzerinde ele alınacaktır:
 * [x] [**SWOT Analizi**](models/01-analysis/swot-analysis.tr.md) (Güçlü Yönler, Zayıf Yönler...)
 * [x] [**PEST/PESTEL Analizi**](models/01-analysis/pestel-analizi.tr.md) (Politik, Ekonomik, Sosyolojik, Teknolojik, Çevresel, Yasal)
 * [x] [**Porter'ın 5 Kuvvet Analizi**](models/01-analysis/porter-5-kuvvet-analizi.tr.md)
-* [ ] **VRIO Çerçevesi** (Değer, Nadirlik, Taklit Edilemezlik, Organizasyon)
+* [x] [**VRIO Çerçevesi**](models/01-analysis/vrio-cercevesi.tr.md) (Değer, Nadirlik, Taklit Edilemezlik, Organizasyon)
 * [ ] **BCG Matrisi** (Boston Danışma Grubu - Büyüme/Pay Matrisi)
 * [ ] **McKinsey 7S Modeli**
 * [ ] **Anahtar Başarı Faktörleri (KSF) Analizi**
