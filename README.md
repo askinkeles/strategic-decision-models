@@ -31,7 +31,7 @@ Each model will be explained in a consistent format:
 * [x] [**PEST/PESTEL Analysis**](models/01-analysis/pestel-analysis.md) (Political, Economic, Social, Technological, Environmental, Legal)
 * [x] [**Porter's 5 Forces Analysis**](models/01-analysis/porter-5-forces-analysis.md)
 * [x] [**VRIO Framework**](models/01-analysis/vrio-framework.md) (Value, Rarity, Imitability, Organization) 
-* [ ] **BCG Matrix** (Boston Consulting Group - Growth/Share Matrix)
+* [x] [**BCG Matrix**](models/01-analysis/bcg-matrix.md) (Boston Consulting Group - Growth/Share Matrix)
 * [ ] **McKinsey 7S Model**
 * [ ] **Key Success Factors (KSF) Analysis**
 * [ ] **Core Competence Analysis**
