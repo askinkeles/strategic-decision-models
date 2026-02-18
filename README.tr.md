@@ -32,7 +32,7 @@ Her model, tutarlı bir format üzerinde ele alınacaktır:
 * [x] [**Porter'ın 5 Kuvvet Analizi**](models/01-analysis/porter-5-kuvvet-analizi.tr.md)
 * [x] [**VRIO Çerçevesi**](models/01-analysis/vrio-cercevesi.tr.md) (Değer, Nadirlik, Taklit Edilemezlik, Organizasyon)
 * [x] [**BCG Matrisi**](models/01-analysis/bcg-matrisi.tr.md) (Boston Danışma Grubu - Büyüme/Pay Matrisi)
-* [ ] **McKinsey 7S Modeli**
+* [x] [**McKinsey 7S Modeli**](models/01-analysis/mckinsey-7s-modeli.tr.md)
 * [ ] **Anahtar Başarı Faktörleri (KSF) Analizi**
 * [ ] **Çekirdek Yetkinlik Analizi**
 * [ ] **Değer Zinciri Analizi** (Porter)
