@@ -33,7 +33,7 @@ Each model will be explained in a consistent format:
 * [x] [**VRIO Framework**](models/01-analysis/vrio-framework.md) (Value, Rarity, Imitability, Organization) 
 * [x] [**BCG Matrix**](models/01-analysis/bcg-matrix.md) (Boston Consulting Group - Growth/Share Matrix)
 * [x] [**McKinsey 7S Model**](models/01-analysis/mckinsey-7s-model.md)
-* [ ] **Key Success Factors (KSF) Analysis**
+* [x] [**Key Success Factors (KSF) Analysis**](models/01-analysis/ksf-analysis.md)
 * [ ] **Core Competence Analysis**
 * [ ] **Value Chain Analysis** (Porter)
 * [ ] **Stakeholder Analysis** (Power/Interest Matrix)
