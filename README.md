@@ -34,8 +34,8 @@ Each model will be explained in a consistent format:
 * [x] [**BCG Matrix**](models/01-analysis/bcg-matrix.md) (Boston Consulting Group - Growth/Share Matrix)
 * [x] [**McKinsey 7S Model**](models/01-analysis/mckinsey-7s-model.md)
 * [x] [**Key Success Factors (KSF) Analysis**](models/01-analysis/ksf-analysis.md)
-* [ ] **Core Competence Analysis**
-* [ ] **Value Chain Analysis** (Porter)
+* [x] [**Core Competence Analysis**](models/01-analysis/core-competence-analysis.md)
+* [x] [**Porter's Value Chain Analysis**](models/01-analysis/value-chain-analysis.md)
 * [ ] **Stakeholder Analysis** (Power/Interest Matrix)
 * [ ] **Benchmarking**
 * [ ] **Competitive Advantage Analysis**

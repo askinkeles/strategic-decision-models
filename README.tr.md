@@ -34,8 +34,8 @@ Her model, tutarlı bir format üzerinde ele alınacaktır:
 * [x] [**BCG Matrisi**](models/01-analysis/bcg-matrisi.tr.md) (Boston Danışma Grubu - Büyüme/Pay Matrisi)
 * [x] [**McKinsey 7S Modeli**](models/01-analysis/mckinsey-7s-modeli.tr.md)
 * [x] [**Anahtar Başarı Faktörleri (KSF) Analizi**](models/01-analysis/ksf-analizi.tr.md)
-* [ ] **Çekirdek Yetkinlik Analizi**
-* [ ] **Değer Zinciri Analizi** (Porter)
+* [x] [**Çekirdek Yetkinlik Analizi**](models/01-analysis/cekirdek-yetkinlik-analizi.tr.md)
+* [x] [**Porter'ın Değer Zinciri Analizi**](models/01-analysis/deger-zinciri-analizi.tr.md) (Value Chain)
 * [ ] **Paydaş Analizi** (Güç/Çıkar Matrisi dahil)
 * [ ] **Benchmarking** (Kıyaslama)
 * [ ] **Rekabet Avantajı Analizi**
