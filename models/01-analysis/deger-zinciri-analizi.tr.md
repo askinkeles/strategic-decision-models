@@ -25,9 +25,6 @@ Porter, şirket faaliyetlerini iki ana gruba ayırır. Bu faaliyetlerin mükemme
 
 
 
-[Image of Porter's Value Chain model diagram]
-
-
 ```mermaid
 graph LR
     subgraph Destek [DESTEK FAALİYETLERİ]
